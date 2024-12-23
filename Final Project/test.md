@@ -2,4 +2,4 @@ Disini merupakan kode final project atau tugas besar di Mata Kuliah : Analisis d
 
 Anggota kelompok :
 Muhamad Nasrulloh          (2311102044)
-Muhammad Arsyad Zaidan     (2311102058)
+& Muhammad Arsyad Zaidan     (2311102058)
